@@ -1,0 +1,10 @@
+venv/
+.env
+.DS_Store
+__pycache__/
+*.pyc
+*.png
+*.twbx
+tableau_*.csv
+listings.csv
+data/listings_raw.csv.gz
